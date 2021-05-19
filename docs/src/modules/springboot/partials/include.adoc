@@ -1,1 +1,0 @@
-:cloudstate-springboot-version: 2.2.4.RELEASE

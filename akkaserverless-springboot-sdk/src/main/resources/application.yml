@@ -1,0 +1,10 @@
+logging:
+  level:
+    root: ERROR
+    org.springframework: INFO
+    com.akkaserverless.springboot: INFO
+
+com:
+  akkaserverless:
+    user-function-interface: "localhost"
+    user-function-port: 8080
